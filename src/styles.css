@@ -1,0 +1,11 @@
+/* For Tailwind CSS base styles, components, and utilities if not using a CDN or for build process */
+/*
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*/
+
+/* You can add global styles here if needed */
+body {
+  /* Example: font-family: sans-serif; */
+}

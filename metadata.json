@@ -1,0 +1,6 @@
+{
+  "name": "PacketForge",
+  "description": "A web application to craft and send network packets, select network interfaces, and log activities. Inspired by tools like xcap, this app allows manual hex input or uploading PCAP files to manage packets.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
